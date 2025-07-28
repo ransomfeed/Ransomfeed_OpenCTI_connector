@@ -1,0 +1,13 @@
+opencti:
+  url: "http://localhost:8080"
+  token: "YOUR_OPENCTI_TOKEN"
+
+connector:
+  id: "ransomfeed-connector"
+  type: "EXTERNAL_IMPORT"
+  name: "RansomFeed Connector"
+  scope: "incident,indicator,identity,intrusion-set"
+  interval: 3600
+
+ransomfeed:
+  api_url: "https://api.ransomfeed.it"
