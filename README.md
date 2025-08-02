@@ -49,7 +49,7 @@ Questo **connector custom** per [OpenCTI](https://www.opencti.io/) importa autom
 #### 1. Clona il repository
 
 ```bash
-git clone https://github.com/nuke86/Ransomfeed_OpenCTI_connector.git
+git clone https://github.com/ransomfeed/Ransomfeed_OpenCTI_connector.git
 cd Ransomfeed_OpenCTI_connector
 ```
 
